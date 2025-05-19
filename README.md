@@ -54,28 +54,46 @@ La aplicación está desarrollada con **Angular** en el frontend, mientras que e
 
 ## 📸 Capturas de Pantalla
 
-1. Vista principal  
-   Aquí pongo captura de pantalla.
+### 1. Vista principal  
+Aquí se muestra la pantalla inicial de la aplicación.  
 ![Inicio](https://github.com/user-attachments/assets/7d0eab21-18c3-485f-9670-09dbd70e24fc)
-2. Detalles de cada categoría
+
+---
+
+### 2. Detalles de cada categoría  
+Visualización de las categorías disponibles.  
 ![Detalles](https://github.com/user-attachments/assets/a82fefd5-405d-4149-a925-563ae5d363ed)
-3. Detalles del producto con su precio e imagen
+
+---
+
+### 3. Detalles del producto con precio e imagen  
+Se muestra el detalle individual del producto seleccionado.  
 ![Producto](https://github.com/user-attachments/assets/2ea1e858-ebd2-4e35-a614-4289e3c0bb9b)
-4. Menú con:
-   - Inicio de sesión y ver pedido 
-   ![Secciones](https://github.com/user-attachments/assets/9aefc377-d3ef-48a5-8f40-09bd0135ee6b)
-   - Dentro de la sección para registrar cuenta  
-   ![Cuenta](https://github.com/user-attachments/assets/5d071d89-362e-406e-9e57-6ef424508cd0)
-   - Dentro de la sección de pedidos: permite ver productos solicitados, modificar cantidades y pagar pedido. 
-   ![Pedidos](https://github.com/user-attachments/assets/a735b393-ae3d-4df2-a2d4-934e7b27be69)
 
-5. Confirmación de pedido
-   Verificamos los productos solicitados antes de pagar. 
-   ![Confirmacion](https://github.com/user-attachments/assets/cfc6f5da-2c56-48e2-b67e-1ae4f1acd884)
+---
 
-6. Dirección y método de pago
-   Selección de dirección de entrega y plataforma de pago.
-   ![Pago](https://github.com/user-attachments/assets/dfff0f58-8626-437f-9c81-6a54cacaee13)
+### 4. Menú y flujo de usuario  
+#### Inicio de sesión y ver pedido  
+![Secciones](https://github.com/user-attachments/assets/9aefc377-d3ef-48a5-8f40-09bd0135ee6b)
+
+#### Registro de cuenta  
+![Cuenta](https://github.com/user-attachments/assets/5d071d89-362e-406e-9e57-6ef424508cd0)
+
+#### Visualización de pedidos  
+Permite ver los productos solicitados, modificar cantidades y pagar.  
+![Pedidos](https://github.com/user-attachments/assets/a735b393-ae3d-4df2-a2d4-934e7b27be69)
+
+---
+
+### 5. Confirmación de pedido  
+Verificación de productos antes de realizar el pago.  
+![Confirmacion](https://github.com/user-attachments/assets/cfc6f5da-2c56-48e2-b67e-1ae4f1acd884)
+
+---
+
+### 6. Dirección y método de pago  
+Selección de dirección y plataforma para finalizar la orden.  
+![Pago](https://github.com/user-attachments/assets/dfff0f58-8626-437f-9c81-6a54cacaee13)
 
 ---
 
